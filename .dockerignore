@@ -1,0 +1,19 @@
+​# Git​
+​.git            
+​.gitignore      
+​ 	
+​# Logs​
+​log/*           
+	
+​# Temp files​
+​tmp/*           
+ 	
+​# Editor temp files​
+​*.swp           
+​*.swo
+
+# node_modules yarn
+# I was stop here to remove the whole yarn java library from the image
+node_modules/*
+# yarn lock
+yarn.lock
